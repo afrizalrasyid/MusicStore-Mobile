@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "176855708478",
+    "firebase_url": "https://musicstore-6e0e0-default-rtdb.firebaseio.com",
+    "project_id": "musicstore-6e0e0",
+    "storage_bucket": "musicstore-6e0e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176855708478:android:19567dd8de196bfbfb726f",
+        "android_client_info": {
+          "package_name": "com.example.musicstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176855708478-c7oma81dfjjsoh9uunn0d4lgfror9chf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNDPZnS1CHgtX5QOxeWrZN9K0BrqJKW3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176855708478-c7oma81dfjjsoh9uunn0d4lgfror9chf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

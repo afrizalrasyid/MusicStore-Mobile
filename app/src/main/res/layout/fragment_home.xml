@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="393dp"
+            android:layout_height="300dp"
+            android:background="@drawable/header5">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/poppins_bold"
+                android:text="Discover Your Music"
+                android:layout_marginTop="120dp"
+                android:layout_marginLeft="92dp"
+                android:textColor="@color/white"
+                android:textSize="20dp"/>
+
+            <TextView
+                android:layout_width="240dp"
+                android:layout_marginTop="150dp"
+                android:layout_marginLeft="70dp"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/inter_light"
+                android:text="&quot;When you play, never mind who listens to you.&quot; - Robert Schumann"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textSize="12dp"/>
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:text="Reach Out Asia"
+            android:fontFamily="@font/poppins_bold"
+            android:textColor="@color/black"
+            android:textSize="18dp"/>
+
+        <TextView
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:fontFamily="@font/poppins_light"
+            android:textSize="11dp"
+            android:text="The owner of the most expensive guitar was won by a Fender Stratocaster brand guitar with the 'Reach Out to Asia' edition which in 2005 sold for IDR 38 billion. The uniqueness of this guitar is the signature of 19 world rock stars such as Jimmy Page, Mick Jagger, Eric Clapton, Keith Richards, Brian May, David Gilmour, Jeff Beck, Liam Gallagher, Angus, Malcolm Young, and Bryan Adams."/>
+
+        <TextView
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="20dp"
+            android:fontFamily="@font/poppins_light"
+            android:textSize="11dp"
+            android:text="This guitar was made specifically to help tsunami victims in the Asian region in 2004 coordinated by Bryan Adams. Because it's the human side that further adds to the value of this guitar."/>
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:layout_width="wrap_content"
+            android:layout_height="170dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="30dp"
+            android:adjustViewBounds="true"
+            app:shapeAppearanceOverlay="@style/roundedImageView"
+            android:src="@drawable/content1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="40dp"
+            android:text="From the Oldest"
+            android:fontFamily="@font/poppins_bold"
+            android:textColor="@color/black"
+            android:textSize="18dp"/>
+
+        <TextView
+            android:layout_width="360dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:fontFamily="@font/poppins_light"
+            android:textSize="11dp"
+            android:text="The Geisenklösterle flute is an ancient flute made of swan bone and mammoth ivory. This flute comes from the plains of Europe, Germany to be precise. The Geisenklösterle flute has an age of 42,000-43,000 years which makes it the oldest musical instrument in the world."/>
+
+        <TextView
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="20dp"
+            android:fontFamily="@font/poppins_light"
+            android:textSize="11dp"
+            android:text="The flute was found in the Geisenklösterle Cave archaeological site about a decade ago. There are 3 flutes at once found in the cave. The flutes could have been used for an ancient ritual or simply for entertainment."/>
+
+        <TextView
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="20dp"
+            android:fontFamily="@font/poppins_light"
+            android:textSize="11dp"
+            android:text="The Geisenklösterle flute has special ornamentation and high artistry which makes this instrument very special for historians. On the other hand, there are also archaeologists who believe that this flute could be 40,000-45,000 years old."/>
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:layout_width="wrap_content"
+            android:layout_height="170dp"
+            android:layout_marginLeft="70dp"
+            android:layout_marginTop="30dp"
+            android:adjustViewBounds="true"
+            app:shapeAppearanceOverlay="@style/roundedImageView"
+            android:src="@drawable/content2"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="40dp"
+            android:text="Start from Young"
+            android:fontFamily="@font/poppins_bold"
+            android:textColor="@color/black"
+            android:textSize="18dp"/>
+
+        <TextView
+            android:layout_width="360dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:fontFamily="@font/poppins_light"
+            android:textSize="11dp"
+            android:text="Music can play a role in growing intelligence and improving children's memory, this is because when listening to music, children's brain cells work more actively. Playing a musical instrument can train motor skills and ear sensitivity to develop coordination between various senses."/>
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:layout_width="wrap_content"
+            android:layout_height="170dp"
+            android:layout_marginLeft="70dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="100dp"
+            android:adjustViewBounds="true"
+            app:shapeAppearanceOverlay="@style/roundedImageView"
+            android:src="@drawable/content3"/>
+
+    </LinearLayout>
+
+
+</ScrollView>
